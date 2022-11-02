@@ -1,0 +1,4 @@
+# rendering the HTML pages VIA Django
+    1)Make tempates dir in root
+    2)add the pages in it
+    3)In settings.py alter 'DIRS'=['templates']
